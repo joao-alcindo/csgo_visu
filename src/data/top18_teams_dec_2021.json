@@ -1,0 +1,203 @@
+[
+    {
+        "name": "Natus Vincere", 
+        "img": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c", 
+        "ava":"22.3",
+        "wt30":"132",
+        "Coach":"B1ad3",
+        "profile":"https://www.hltv.org/team/4608/natus-vincere",
+        "ranking":"1",
+        "lineup":"s1mple, electronic, Boombl4, Perfecto and B1T"
+        
+    },
+    {
+        "name": "Vitality", 
+        "img": "https://img-cdn.hltv.org/teamlogo/GAlByJtDTnkgbb9p_71SUL.png?ixlib=java-2.1.0&w=50&s=2838cd78a5ebb5c9fea4c485908e9dbb", 
+        "ava":"24.2",
+        "wt30":"115",
+        "Coach":"XTQZZZ",
+        "profile":"https://www.hltv.org/team/9565/vitality",
+        "ranking":"2",
+        "lineup":"shox, apEX, ZywOo, misutaaa and Kyojin"
+        
+    },
+    {
+        "name": "G2", 
+        "img": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b", 
+        "ava":"26.6",
+        "wt30":"114",
+        "Coach":"Swani",
+        "profile":"https://www.hltv.org/team/5995/g2",
+        "ranking":"3",
+        "lineup":"jaCkz, NiKo, huNter-, AmaNEk and nexa"
+        
+    },
+    {
+        "name": "Gambit", 
+        "img": "https://img-cdn.hltv.org/teamlogo/pNV-lVdpvYZIkDwHdEXXg-.svg?ixlib=java-2.1.0&s=8b557b5b4d283208976340ef1bc44c76", 
+        "ava":"21.9",
+        "wt30":"74",
+        "Coach":"groove",
+        "profile":"https://www.hltv.org/team/6651/gambit",
+        "ranking":"4",
+        "lineup":"Hobbit, interz Ax1Le, sh1ro and nafany"
+        
+    },
+    {
+        "name": "Heroic", 
+        "img": "https://img-cdn.hltv.org/teamlogo/ffSPDr5mbWSKI4yruyfVtx.svg?ixlib=java-2.1.0&s=2b0a91cf4a31e6eec7a5928b10465f32", 
+        "ava":"22.8",
+        "wt30":"86",
+        "Coach":"Xizt",
+        "profile":"https://www.hltv.org/team/7175/heroic",
+        "ranking":"5",
+        "lineup":"cadiaN, refrezh, stavn, TeSeS and sjuush"
+        
+    },
+    {
+        "name": "Virtus.pro", 
+        "img": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875", 
+        "ava":"22.3",
+        "wt30":"190",
+        "Coach":"dastan",
+        "profile":"https://www.hltv.org/team/5378/virtuspro",
+        "ranking":"6",
+        "lineup":"buster, FL1T, Qikert, Jame and YEKINDAR"
+        
+    },
+    {
+        "name": "NIP", 
+        "img": "https://img-cdn.hltv.org/teamlogo/mbY2YeFKUAbL9NyO6ab7-c.png?ixlib=java-2.1.0&w=50&s=33901dc1e88dc81e479574095806fcb9", 
+        "ava":"23.8",
+        "wt30":"81",
+        "Coach":"THREAT",
+        "profile":"https://www.hltv.org/team/4411/nip",
+        "ranking":"7",
+        "lineup":"device, es3tag, REZ, hampus and Plopski"
+        
+    },
+    {
+        "name": "FaZe", 
+        "img": "https://img-cdn.hltv.org/teamlogo/SMhzsxzbkIrgqCOOKGRXlW.svg?ixlib=java-2.1.0&s=e6a9ce0345c7d703e5eaac14307f69aa", 
+        "ava":"26.3",
+        "wt30":"145",
+        "Coach":"RobbaN",
+        "profile":"https://www.hltv.org/team/6667/faze",
+        "ranking":"8",
+        "lineup":"karrigan, olofmeister, rain, Twistzz and broky"
+        
+    },
+    {
+        "name": "Astralis", 
+        "img": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067", 
+        "ava":"24.2",
+        "wt30":"8",
+        "Coach":"ave",
+        "profile":"https://www.hltv.org/team/6665/astralis",
+        "ranking":"9",
+        "lineup":"Xyp9x, gla1ve, k0nfig, Lucky and blameF"
+        
+    },
+    {
+        "name": "Entropiq", 
+        "img": "https://img-cdn.hltv.org/teamlogo/_x9xMubeeb-fqq_21BJ6Fd.png?ixlib=java-2.1.0&w=50&s=3ab3a2cbfb2ed2e30c1a71ca8113ae39", 
+        "ava":"22.8",
+        "wt30":"44",
+        "Coach":"hooch",
+        "profile":"https://www.hltv.org/team/10831/entropiq",
+        "ranking":"10",
+        "lineup":"NickelBack, Krad, Lack1, El1an and Forester"
+        
+    },
+    {
+        "name": "FURIA", 
+        "img": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c", 
+        "ava":"22.1",
+        "wt30":"150",
+        "Coach":"guerri",
+        "profile":"https://www.hltv.org/team/8297/furia",
+        "ranking":"11",
+        "lineup":"arT, yuurih, VINI, KSCERATO and drop"
+        
+    },
+    {
+        "name": "Liquid", 
+        "img": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62", 
+        "ava":"24.8",
+        "wt30":"155",
+        "Coach":"adreN",
+        "profile":"https://www.hltv.org/team/5973/liquid",
+        "ranking":"12",
+        "lineup":"FalleN, NAF, EliGE, Stewie2K and Grim"
+        
+    },
+    {
+        "name": "ENCE", 
+        "img": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8", 
+        "ava":"25.0",
+        "wt30":"38",
+        "Coach":"sAw",
+        "profile":"https://www.hltv.org/team/4869/ence",
+        "ranking":"13",
+        "lineup":"Snappi, doto, dycha, hades and Spinx"
+        
+    },
+    {
+        "name": "Copenhagen Flames", 
+        "img": "https://img-cdn.hltv.org/teamlogo/o9gWbZqKaYgDJL5ttGKuqQ.png?ixlib=java-2.1.0&w=50&s=6a3e50d369c8777a5ce5059c1d7676b3", 
+        "ava":"22.4",
+        "wt30":"18",
+        "Coach":"",
+        "profile":"https://www.hltv.org/team/7461/copenhagen-flames",
+        "ranking":"14",
+        "lineup":"HooXi, nicoodoz, roeJ, jabbi and Zyphon"
+        
+    },
+    {
+        "name": "OG", 
+        "img": "https://img-cdn.hltv.org/teamlogo/7b6DouMNGWcqENDx1vw_Ot.png?ixlib=java-2.1.0&w=50&s=5ffc85bfbc0398d0a826590a790a08a6", 
+        "ava":"23.5",
+        "wt30":"104",
+        "Coach":"ruggah",
+        "profile":"https://www.hltv.org/team/10503/og",
+        "ranking":"15",
+        "lineup":"valde, Aleksib, niko, mantuu and flameZ"
+        
+    },
+    {
+        "name": "BIG", 
+        "img": "https://img-cdn.hltv.org/teamlogo/yQB6cm3KZ_BcyrgppBQMjc.svg?ixlib=java-2.1.0&s=06825290bfb61c9f8467f5c323f51974", 
+        "ava":"25.8",
+        "wt30":"98",
+        "Coach":"enkay J",
+        "profile":"https://www.hltv.org/team/7532/big",
+        "ranking":"16",
+        "lineup":"tabseN, tiziaN, syrsoN, gade and k1to"
+        
+    },
+    {
+        "name": "MOUZ", 
+        "img": "https://img-cdn.hltv.org/teamlogo/RfR1zmFJ0eP08VmFb6UOu3.png?ixlib=java-2.1.0&w=50&s=051cbffad4d1c25468d83abee6f4fe23", 
+        "ava":"22.3",
+        "wt30":"67",
+        "Coach":"mithR",
+        "profile":"https://www.hltv.org/team/4494/mouz",
+        "ranking":"17",
+        "lineup":"dexter, frozen, acoR, ropz and Bymas"
+        
+    },
+    {
+        "name": "fnatic", 
+        "img": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e", 
+        "ava":"23.8",
+        "wt30":"12",
+        "Coach":"keita",
+        "profile":"https://www.hltv.org/team/4991/fnatic",
+        "ranking":"18",
+        "lineup":"KRIMZ, ALEX, smooya, Brollan and mezii"
+        
+    }
+
+
+
+]

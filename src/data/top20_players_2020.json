@@ -1,0 +1,191 @@
+[
+    {
+        "nick": "ZywOo", 
+        "name": "Mathieu Herbaut", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/FU6cX0sBXlqI-UGYm_92sq.png?ixlib=java-2.1.0&w=400&s=0f5e9fdb4a183bcfb1b1fa7d88b43f08", 
+        "age": "21",
+        "team":"Vitality (FRA)",
+        "profile":"https://www.hltv.org/player/11893/zywoo",
+        "ranking":"1"
+    },
+
+    {
+        "nick": "s1mple", 
+        "name": "Aleksandr Kostyliev", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/GJO4YI4EC6L1LpNFZX13eS.png?ixlib=java-2.1.0&w=400&s=1b49753162ebf20e6d3440f7e377ec55", 
+        "age": "24",
+        "team":"Natus Vincere (CIS)",
+        "profile":"https://www.hltv.org/player/7998/s1mple",
+        "ranking":"2"
+    },
+
+    {
+        "nick": "device", 
+        "name": "Nicolai Reedtz", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/e-VpY--MZr_3XFDmj8DBd6.png?ixlib=java-2.1.0&w=400&s=f659f480569596b71f8c7d6fffc27ad7", 
+        "age": "26",
+        "team":"NIP (SWE)",
+        "profile":"https://www.hltv.org/player/7592/device",
+        "ranking":"3"
+    },
+
+    {
+        "nick": "niKo", 
+        "name": "Nikola Kovač", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/lfzbHz7wzeSV6goLEvmvfz.png?ixlib=java-2.1.0&w=400&s=db9d5098b032f58b387f81db564aefbf", 
+        "age": "24",
+        "team":"G2 (EUR)",
+        "profile":"https://www.hltv.org/player/3741/niko",
+        "ranking":"4"
+    },
+
+    {
+        "nick": "electronic", 
+        "name": "Denis Sharipov", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/_zRrFpLvv9aPaLnNPEauoy.png?ixlib=java-2.1.0&w=400&s=d664fbeda3d4ff7053843e1271f05aef", 
+        "age": "23",
+        "team":"Natus Vincere (CIS)",
+        "profile":"https://www.hltv.org/player/8918/electronic",
+        "ranking":"5"
+    },
+    {
+        "nick": "blameF", 
+        "name": "Benjamin Bremer", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/ZQMIcaRX2cC3h97k1-LZyR.png?ixlib=java-2.1.0&w=400&s=8ba38e5d0f8edfcff32852ffb6550486", 
+        "age": "24",
+        "team":"Astralis (DEN)",
+        "profile":"https://www.hltv.org/player/15165/blamef",
+        "ranking":"6"
+    },
+    {
+        "nick": "ropz", 
+        "name": "Robin Kool", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/dLG2N1llEWQnm_qdqxf19E.png?ixlib=java-2.1.0&w=400&s=9fb31f678dd0f1bcaa457746047e5cb0", 
+        "age": "21",
+        "team":"MOUZ (EUR)",
+        "profile":"https://www.hltv.org/player/11816/ropz",
+        "ranking":"7"
+    }
+    ,
+    {
+        "nick": "EliGE", 
+        "name": "Jonathan Jablonowski", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/YQMbQk5HIRApZFVG3rujIr.png?ixlib=java-2.1.0&w=400&s=81e5207f607d4c7ebe4400ab8c4b1b76", 
+        "age": "24",
+        "team":"Liquid (USA)",
+        "profile":"https://www.hltv.org/player/8738/elige",
+        "ranking":"8"
+    },
+    {
+        "nick": "dupreeh", 
+        "name": "Peter Rasmussen", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/91Nn_rUIcxuC-oyzUQxOSY.png?ixlib=java-2.1.0&w=400&s=344759c6631c54a68006d211a0d843de", 
+        "age": "28",
+        "team":"Astralis  (DEN)",
+        "profile":"https://www.hltv.org/player/7398/dupreeh",
+        "ranking":"9"
+    },
+    {
+        "nick": "syrsoN", 
+        "name": "Florian Rische", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/l4rU0BdygUpXFYfO4KcWfk.png?ixlib=java-2.1.0&w=400&s=e1fe079d060162f659f753229b21aefa", 
+        "age": "25",
+        "team":"BIG  (DEU)",
+        "profile":"https://www.hltv.org/player/7266/syrson",
+        "ranking":"10"
+    }
+    ,
+    {
+        "nick": "Magisk", 
+        "name": "Emil Reif", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/PbU7sPhzWVnJOJ0ItLHkwr.png?ixlib=java-2.1.0&w=400&s=8a7fcaffdf8dede9110dc9f4f6466926", 
+        "age": "23",
+        "team":"Astralis  (DEN)",
+        "profile":"https://www.hltv.org/player/9032/magisk",
+        "ranking":"11"
+    } ,
+    {
+        "nick": "stavn", 
+        "name": "Martin Lund", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/ebX1nyC7pzo5bLwDtkmabc.png?ixlib=java-2.1.0&w=400&s=b7d89bbe33cc30d2f3444f90a14fdf39", 
+        "age": "19",
+        "team":"Heroic  (DEN)",
+        "profile":"https://www.hltv.org/player/10994/stavn",
+        "ranking":"12"
+    },
+    {
+        "nick": "huNter-", 
+        "name": "Nemanja Kovač", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/4K8FPoyypPNYvs9h16h-lK.png?ixlib=java-2.1.0&w=400&s=64f9d3fc2417c911d5de3f3a801c95f9", 
+        "age": "25",
+        "team":"G2  (EUR)",
+        "profile":"https://www.hltv.org/player/3972/hunter",
+        "ranking":"13"
+    },
+    {
+        "nick": "yuurih", 
+        "name": "Yuri Santos", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/bO-RMEqskEFI7s9iMFKLC6.png?ixlib=java-2.1.0&w=400&s=b20e63a0ac20eb1a9fd3a0cc921605e3", 
+        "age": "21",
+        "team":"FURIA  (BRA)",
+        "profile":"https://www.hltv.org/player/12553/yuurih",
+        "ranking":"14"
+    },
+    {
+        "nick": "Brollan", 
+        "name": "Ludvig Brolin", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/tOFU3yLibaweQqCQK2RdhN.png?ixlib=java-2.1.0&w=400&s=133d8dfc6bc4e7a528eaa54d75e74e02", 
+        "age": "19",
+        "team":"fnatic  (SWE)",
+        "profile":"https://www.hltv.org/player/13666/brollan",
+        "ranking":"15"
+    },
+    {
+        "nick": "HEN1", 
+        "name": "Henrique Teles", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/GfDZPJx-SvEIBUlboUz06w.png?ixlib=java-2.1.0&w=400&s=deafeb56936d1b801937670b4d8912e8", 
+        "age": "26",
+        "team":"00Nation  (BRA)",
+        "profile":"https://www.hltv.org/player/8565/hen1",
+        "ranking":"16"
+    }
+    ,
+    {
+        "nick": "KRIMZ", 
+        "name": "Freddy Johansson", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/oZ3FusSq5BqsgbM5EFd_Ov.png?ixlib=java-2.1.0&w=400&s=1f8ba8f178497cfb7b7b647484defe5c", 
+        "age": "27",
+        "team":"fnatic  (SWE)",
+        "profile":"https://www.hltv.org/player/7528/krimz",
+        "ranking":"17"
+    },
+    {
+        "nick": "KSCERATO", 
+        "name": "Kaike Cerato", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/7UlnSQw1PMKkNuZjl16KSE.png?ixlib=java-2.1.0&w=400&s=11191d2ef2779a52d655eae7064c88fe", 
+        "age": "22",
+        "team":"FURIA  (BRA)",
+        "profile":"https://www.hltv.org/player/15631/kscerato",
+        "ranking":"18"
+    },
+    {
+        "nick": "jks", 
+        "name": "Justin Savage", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/5OEpv2cUmQD43fgys0vD2a.png?ixlib=java-2.1.0&w=400&s=e7ed6768fe483ad28b1a143ddcd4e4e8", 
+        "age": "26",
+        "team":"Complexity  (BRA)",
+        "profile":"https://www.hltv.org/player/4679/jks",
+        "ranking":"19"
+    },
+    {
+        "nick": "Brehze", 
+        "name": "Vincent Cayonte", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/Ho-l2qOx77zBgAQ6T8KYe2.png?ixlib=java-2.1.0&w=400&s=a2447081758675e76b8f95be3f77a905", 
+        "age": "23",
+        "team":"Evil Geniuses  (USA)",
+        "profile":"https://www.hltv.org/player/9136/brehze",
+        "ranking":"20"
+    }
+
+
+]
