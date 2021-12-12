@@ -6,7 +6,7 @@ st.set_page_config(page_title='CS:GO visu',
                    layout="centered")
 
 
-#st.sidebar.image('../img/csgo-logo.png', width=250)
+st.sidebar.image('src/img/csgo-logo.png', width=250)
 
 
 st.sidebar.header('Visualizações e Informações sobre CS:GO')
