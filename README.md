@@ -2,6 +2,8 @@
 
 ## Trabalho Final de Visualização da Informação 
 
+O resultado final pode ser encontrado no link https://share.streamlit.io/joao-alcindo/csgo_visu/main/src/streamlit/main.py.
+
 ## Briefing 
 
 Desenvolver visualizações sobre o cenário competitivo do jogo [Counter Strike:Global Offensive](https://pt.wikipedia.org/wiki/Counter-Strike:_Global_Offensive).
@@ -53,12 +55,4 @@ Como usei algumas bibliotecas que não são padrões no streamlit, criei um arqu
 
 ## Conclusão
 
-
-
-
-
-
-
-
-
-Resultado final em https://share.streamlit.io/joao-alcindo/csgo_visu/main/src/streamlit/main.py
+Aprender sobre novas ferramentas e novos métodos é sempre interessante, nesse trabalho pude trabalhar novamente com o plotly agora no python e aprendi a usar o streamlit que é uma ferramenta muito interessante. Consegui fazer um trabalho interessante e com boas visualizações, porém senti que meus dados eram um pouco pobres perto da complexidade do jogo, o trabalho seria mais interessante se eu conseguisse encontrar mais dados interessantes e completos.
