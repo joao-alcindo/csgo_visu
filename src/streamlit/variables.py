@@ -181,9 +181,9 @@ Em 2020 seria realizado o major na cidade do Rio de Janeiro, porém com a pandem
 
 ![Natus Vincere erguendo o troféu de campeã](https://cdn.ome.lt/85knpl5n_nwdClTSZ1w67S07KCA=/970x360/smart/uploads/conteudo/fotos/NaVi_campea_Major.png)
 
-#### Avicii Arena durante os Play-offs do Major de 2021
+#### Avicii Arena durante os Playoffs do Major de 2021
 
-![Avicii Arena durante os Play-offs do Major de 2021](https://img-cdn.hltv.org/gallerypicture/c7-8tdQxkOAHR6R_CCHGo0.jpg?ixlib=java-2.1.0&w=800&s=0f48bdc6f5bf56e126a3309f87dabdd3)
+![Avicii Arena durante os Playoffs do Major de 2021](https://img-cdn.hltv.org/gallerypicture/c7-8tdQxkOAHR6R_CCHGo0.jpg?ixlib=java-2.1.0&w=800&s=0f48bdc6f5bf56e126a3309f87dabdd3)
 
 Outros torneios importantes também são a IEM Katowice, IEM Cologne, ESL Pro League organizados pela [ESL](https://www.eslgaming.com/) e  Blast Premier Spring Finals, Blast Premier Fall Finals e Blast Premier World Finals organizados pela [Blast Premier](https://blastpremier.com/).
 
