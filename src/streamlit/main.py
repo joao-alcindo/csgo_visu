@@ -3,7 +3,7 @@ import pandas as pd
 from functions import *
 
 st.set_page_config(page_title='CS:GO visu',
-                   layout="centered")
+                   layout="wide")
 
 
 st.sidebar.image('src/img/csgo-logo.png', width=250, output_format='png')

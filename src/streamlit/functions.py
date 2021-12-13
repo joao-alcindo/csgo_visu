@@ -5,13 +5,10 @@ from variables import *
 def top_players(nick):
     data = players[nick]
 
-    c1i, cl2,cl3 =  st.columns(3)
+    cl1, cl2,cl3 =  st.columns(3)
 
-    with cl2:
-        st.image(data['img'], width=230, output_format='png')
-
-
-    c2,c3 = st.columns(2)
+    with cl1:
+        st.image(data['img'], width=280, output_format='png')
 
     information = f"""
     #### Informações
@@ -30,7 +27,7 @@ def top_players(nick):
     """
 
 
-    with c2:
+    with cl2:
         st.markdown(information)
 
     stats =  f"""
@@ -47,7 +44,7 @@ def top_players(nick):
     **Rating**:  {data['rating']}
     """
 
-    with c3:
+    with cl3:
         st.markdown(stats)
 
 def top_teams(name):
@@ -55,12 +52,10 @@ def top_teams(name):
 
     data = teams[name]
 
-    c1i, cl2,cl3 =  st.columns(3)
+    cl1, cl2,cl3 =  st.columns(3)
 
-    with cl2:
+    with cl1:
         st.image(data['img'], width=230, output_format='png')
-
-    c2,c3 = st.columns(2)
 
     information = f"""
     #### Informações
@@ -85,7 +80,7 @@ def top_teams(name):
     """
 
 
-    with c2:
+    with cl2:
         st.markdown(information)
 
     stats =  f"""
@@ -100,7 +95,7 @@ def top_teams(name):
     **Rating**:  {data['rating']}
     """
 
-    with c3:
+    with cl3:
         st.markdown(stats)
 
 
