@@ -145,7 +145,7 @@ introducao_text = """
 
 ## O que é ?
 
-Counter-Strike: Global Offensive, mais famoso como CS:GO, é um jogo competitivo de tiro em primeira pessoa (FPS).
+Counter-Strike: Global Offensive, mais famoso como CS:GO, é um jogo competitivo de tiro em primeira pessoa (FPS) desenvolvido pela Valve Corporation e pela Hidden Path Entertainment.
 
 CS:GO é o último lançamento da série Counter Strike, e tem atraído uma média de 11 milhões de jogadores por mês desde o seu lançamento em 2012.
 
@@ -199,7 +199,71 @@ Os brasileiros já ganharam dois majors, MLG Major Championship: Columbus 2016 e
 
 * Além do modo competitivo existem outros modos, como mata-mata, corrida armada, mata pombo, entre outros.
 
+---
+
+## Fontes
+
+Datasets: https://www.kaggle.com/patrasaurabh/csgo-player-and-team-stats
+
+Dados dos times e jogadores: https://www.hltv.org/
+
+Sobre o jogo: https://blog.betway.com/pt/esports/o-que-%C3%A9-o-csgo-por-que-tanta-gente-ama-esse-jogo/
+
+Imagens: 
+
+* https://www.hltv.org/
+* https://www.techtudo.com.br/
+* https://www.theenemy.com.br/
+
 
 
 """
 
+
+
+#-------------------------------------------------------------------------------
+
+#jogadores 1
+
+players_md1 = """
+Os jogadores são os principais personagens do jogo, eles que fazem os abates, morrem, atiram, entre outras funções dentro do jogo. O CS:GO é tão famoso que jogadores começaram a ver o jogo como uma profissão e não apenas diversão. Nessa página veremos dados de grande parte dos jogadores profissionais. Explicando um pouco das siglas dos dados a seguir temos: 
+
+* KD Ratio : Número de Abates totais dividido pelo número de mortes
+* KD Difference : Número de Abates subtraído pelo número de mortes
+* Rating : Um pouco mais complicado de se calcular, leva em consideração o número de abates e mortes e também um valor baseado no número de rodadas onde o jogador fez mais de um abate.
+
+### Top 20 jogadores HLTV 2020 e FalleN
+
+Na caixa de seleção abaixo é possível selecionar um jogador que esteve entre os 20 melhores jogadores do mundo no ano de 2020, 3 brasileiro fazem parte dessa lista Yuri "yuurih" Santos (14º), Henrique "HEN1" Teles (16º) e Kaike "KSCERATO" Cerato (18º). Além deles temos o FalleN, que não figurou entre os 20 melhores em 2020, mas é uma das lendas do CS:GO brasileiro. Campeão de 2 majors e diversos outros torneios importantes, ele quem é um dos principais se não o principal incentivador do CS brasileiro.
+
+
+""" 
+
+players_md2 = """
+### Jogadores ao redor do Mundo
+
+"""
+
+players_md3 = """
+### Estatísticas e Plots por países
+
+"""
+
+teams_md = """
+Os times são muito importantes para a realização de campeonatos e dão oportunidades para jogadores entrarem nesse mundo do Counter Strike. Nessa página temos dados da maioria dos times profissionais. Segue a definição de alguns dados e siglas abaixo:
+
+* KD Ratio : Número de Abates totais dividido pelo número de mortes.
+* KD Difference : Número de Abates subtraído pelo número de mortes.
+* Rating : Um pouco mais complicado de se calcular, leva em consideração o número de abates e mortes e também um valor baseado em outras estatíscas.
+
+### Top 18 times HLTV 
+
+Abaixo temos uma caixa de seleção com os 18 melhores times de CS:GO atualmente, o melhor time brasileiro é a FURIA que ocupa o 11º lugar no ranking.
+
+"""
+
+
+obs = """
+> OBS. : Os dados da tabela acima foram computadas em setembro de 2021, já as informações dos times e jogadores são de dezembro de 2021.
+
+"""

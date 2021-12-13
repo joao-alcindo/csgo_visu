@@ -84,7 +84,7 @@ def top_teams(name):
         st.markdown(information)
 
     stats =  f"""
-    #### Estatísticas (sep 2021)
+    #### Estatísticas
 
     **Mapas jogados**:  {data['total_maps']}
 
@@ -159,28 +159,60 @@ def set_home():
 
 def set_players():
     st.header('Jogadores')
+
+    st.markdown(players_md1)
     nick = st.selectbox('',players_20)
     top_players(nick)
+    
+    st.markdown(players_md2)
     st.write(around_world(player_dataset_p))
+    
+    st.markdown(players_md3)
+    
     country = st.selectbox('',options = player_dataset_p['country'].iloc[:], index = 8)
+    
+
     data = st.radio("",['total_maps','total_rounds','kd','kd_diff','rating'], index = 4)
-    st.write('<style>div.row-widget.stRadio > div{flex-direction:row;}</style>', unsafe_allow_html=True)
+    st.markdown(f"#### Boxplot de {data}")
     st.write(box_plox(player_dataset,country, data))
+    st.markdown(f"#### Histograma de {data}")
     st.write(histogram(player_dataset,country, data))
+
+    st.markdown("---")
+
+    if st.checkbox('Mostrar dados'):
+        st.subheader('Dados')
+        st.write(player_dataset)
+
+    st.markdown(obs)
 
 
     
 
 def set_teams():
     st.header('Times')
+
+    st.markdown(teams_md)
     nome = st.selectbox('',teams_18, index = 10)
     top_teams(nome)
+
+    st.markdown("### Times ao redor do Mundo")
     st.write(around_world(team_dataset_p))
+    
+    st.markdown("### Estatísticas e Plots por países")
     country = st.selectbox('',options = team_dataset_p['country'],index = 6)
-
-
-
     data = st.radio("",['total_maps','kd','kd_diff','rating'], index = 3)
+
+    st.markdown(f"#### Boxplot de {data}")
     st.write(box_plox(team_dataset,country, data))
+    st.markdown(f"#### Histograma de {data}")
     st.write(histogram(team_dataset,country, data))
+
+    st.markdown("---")
+
+    if st.checkbox('Mostrar dados'):
+        st.subheader('Dados')
+        st.write(team_dataset)
+
+    st.markdown(obs)
 
