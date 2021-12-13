@@ -1,4 +1,15 @@
-[
+[   
+    {
+        "nick": "FalleN", 
+        "name": "Gabriel Toledo", 
+        "img": "https://img-cdn.hltv.org/playerbodyshot/BVGgD5hJMifm1iVGXFwbws.png?ixlib=java-2.1.0&w=400&s=2963f9e90b71342b6b00f401c7c4acff", 
+        "age": "30",
+        "team":"Liquid (USA)",
+        "profile":"https://www.hltv.org/player/2023/fallen",
+        "ranking":"2° em 2016"
+    },
+
+
     {
         "nick": "ZywOo", 
         "name": "Mathieu Herbaut", 

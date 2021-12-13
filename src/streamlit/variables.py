@@ -23,7 +23,8 @@ teams_18 = ['Natus Vincere',
  'MOUZ',
  'fnatic']
 
-players_20 = ['ZywOo',
+players_20 = ['FalleN',
+ 'ZywOo',
  's1mple',
  'device',
  'NiKo',
@@ -42,7 +43,7 @@ players_20 = ['ZywOo',
  'KRIMZ',
  'KSCERATO',
  'jks',
- 'Brehze'] 
+ 'Brehze']
 
 with open('./src/data/top20_players.json', 'r', encoding='utf-8') as player_file:
     data_players = json.load(player_file)
