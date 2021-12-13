@@ -43,12 +43,15 @@ Para organizar as visualizações e adicionar funções de filtragem e seleção
 
 ### Imagens da Interface:
 
-<img src="./img/intro.png" alt="menu" width=500>
-<img src="./img/players.png" alt="menu" width=500>
-<img src="./img/teams.png" alt="menu" width=500>
-<img src="./img/boxplot.png" alt="menu" width=500>
-<img src="./img/hist.png" alt="menu" width=500>
+<img src="./img/intro.png" alt="menu" width=700>
+<img src="./img/players.png" alt="menu" width=700>
+<img src="./img/teams.png" alt="menu" width=700>
+<img src="./img/boxplot.png" alt="menu" width=700>
+<img src="./img/hist.png" alt="menu" width=700>
 
+Como usei algumas bibliotecas que não são padrões no streamlit, criei um arquivo `requiriments.txt` na pasta [`./src/streamlit `](./src/streamlit), para que todos os comandos fossem executados sem erro. E também customizei o tema do streamlit em [`./.streamlit `](./.streamlit).
+
+## Conclusão
 
 
 
