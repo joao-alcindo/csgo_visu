@@ -32,7 +32,7 @@ A primeira parte do trabalho foi encontrar dados interessantes e relevantes para
 
 Depois de dados coletados e previamente organizados, fui em busca de ideias e inpirações pras visualizações, então encontrei o seguinte dashboard [link](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py), gostei bastante do que foi proposto nele, então busquei fazer algo semelhante. Com os dados obtidos decidi dividir o meu projeto final em três páginas (Introdução, Jogadores e Times), como pode-se ver na imagem abaixo:
 
-![](.img/menu.png)
+![menu](./img/menu.png)
 
 A partir disso fiz uma introdução explicando um pouco sobre o jogo, o que é, dinâmica de jogo, principais eventos e algumas curiosidades. 
 
