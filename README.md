@@ -32,7 +32,7 @@ A primeira parte do trabalho foi encontrar dados interessantes e relevantes para
 
 Depois de dados coletados e previamente organizados, fui em busca de ideias e inpirações pras visualizações, então encontrei o seguinte dashboard [link](https://share.streamlit.io/casiopa/eda-imdb/main/src/utils/streamlit/EDA_IMDb_main.py), gostei bastante do que foi proposto nele, então busquei fazer algo semelhante. Com os dados obtidos decidi dividir o meu projeto final em três páginas (Introdução, Jogadores e Times), como pode-se ver na imagem abaixo:
 
-<img src="./img/menu.png" alt="menu" height=200>
+<img src="./img/menu.png" alt="menu" width=200>
 
 A partir disso fiz uma introdução explicando um pouco sobre o jogo, o que é, dinâmica de jogo, principais eventos e algumas curiosidades. 
 
@@ -42,6 +42,13 @@ Com a introdução já feita, parti para a parte das visualizações, as visuali
 Para organizar as visualizações e adicionar funções de filtragem e seleção, escolhi o streamlit que é uma ferramenta para criar interfaces, a instalação e um pequeno tutorial sobre a ferramenta podem ser encontrados nesse link https://docs.streamlit.io/library/get-started. Para desenvolver uma interface com meus dados, organizei os arquivos na pasta [`./src/streamlit `](./src/streamlit). O arquivo `main.py` serve como base para as funções do menu e é o arquivo que conecta o streamlit com os demais, em `functions.py` estão as funções que populam as páginas e plotam os gráficos, por fim em `variables.py` é onde estão todos os dados necessários para interface.
 
 ### Imagens da Interface:
+
+<img src="./img/intro.png" alt="menu" width=500>
+<img src="./img/players.png" alt="menu" width=500>
+<img src="./img/teams.png" alt="menu" width=500>
+<img src="./img/boxplot.png" alt="menu" width=500>
+<img src="./img/hist.png" alt="menu" width=500>
+
 
 
 
