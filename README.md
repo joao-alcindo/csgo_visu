@@ -1,10 +1,10 @@
-# csgo_visu
+# Visualisações sobre CS:GO
 
-Trabalho Final de Visualização da Informação 
+## Trabalho Final de Visualização da Informação 
 
 ### Briefing 
 
-Desenvolver visualizações sobre o cenário competitivo do jogo Counter [Strike:Global Offensive](https://pt.wikipedia.org/wiki/Counter-Strike:_Global_Offensive).
+Desenvolver visualizações sobre o cenário competitivo do jogo [Counter Strike:Global Offensive](https://pt.wikipedia.org/wiki/Counter-Strike:_Global_Offensive).
 
 **Motivação:** Durante a pandemia comecei a jogar CS:GO e acompanhar o cenário competitivo e fazer amigos através dele, então como me apaixonei pelo jogo e suas estatísticas.
 
@@ -14,9 +14,21 @@ Desenvolver visualizações sobre o cenário competitivo do jogo Counter [Strike
 
 **Tratamento e Limpeza de dados:** pycounty e pandas.
 
-**Visualizações:** plotly.
+**Visualizações:** [plotly](https://plotly.com/).
 
-**Implementação e Deploy:** Streamlit.
+**Implementação e Deploy:** [Streamlit](https://streamlit.io/).
+
+
+### Dados 
+
+Os dados que eu usei durante o trabalho foram coletados das seguintes fontes:
+
+* [HLTV](https://www.hltv.org/)
+* [CSGO : Player and Team stats](https://www.kaggle.com/patrasaurabh/csgo-player-and-team-stats)
+
+### Desenvolvimento 
+
+A primeira parte do trabalho foi encontrar dados interessantes e relevantes para realização do trabalho, os dados usados no trabalho estão na pasta [`./src/data`](./src/data)
 
 
 
