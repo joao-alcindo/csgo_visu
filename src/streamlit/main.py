@@ -18,7 +18,7 @@ menu = st.sidebar.radio(
     ("Introdução", "Jogadores", "Times"),
 )
 
-
+st.write('<style>div.row-widget.stRadio > div{flex-direction:row;}</style>', unsafe_allow_html=True)
 
 st.sidebar.markdown('---')
 st.sidebar.write('João Alcindo | Dezembro 2021 joaoalcindo27@gmail.com')

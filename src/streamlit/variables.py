@@ -1,5 +1,8 @@
 #import streamlit as st
 import json
+import pandas as pd
+import pycountry
+import plotly.express as px
 
 teams_18 = ['Natus Vincere',
  'Vitality',
@@ -57,8 +60,82 @@ teams = {}
 
 for team in data_teams:
     teams[team['name']] = team
-    
-print(teams)
+
+
+
+
+
+
+
+#-------------------------------------------------------------------------------------------------
+
+#jogadores ao redor do mundo
+
+
+player_dataset =  pd.read_csv('./src/data/player_stats.csv')
+
+player_dataset_p = player_dataset.groupby('country', as_index= False).count()[['country','name']]
+player_dataset_p = player_dataset_p.rename(columns = {'name': 'count'})
+
+player_dataset_p['iso_alpha'] = player_dataset_p['country']
+
+countries = {}
+
+for country in pycountry.countries:
+    countries[country.name] = country.alpha_3
+
+#erros = ['Czech Republic', 'Korea', 'Macedonia', 'Russia', 'Taiwan', 'Vietnam']
+
+erros = {'Czech Republic':'CZE', 'Korea':'KOR', 'Macedonia':'MKD', 'Russia':'RUS', 'Taiwan':'TWN', 'Vietnam':'VNM'}
+
+
+def name_to_iso(x):
+    try:
+        iso = countries[x]
+    except KeyError:
+        iso = erros[x]
+    return iso
+
+
+player_dataset_p['iso_alpha'] = player_dataset_p['iso_alpha'].apply(name_to_iso)
+
+#-------------------------------------------------------------------------------------------------
+
+#times ao redor do mundo
+
+team_dataset =  pd.read_csv('./src/data/team_stats.csv')
+
+
+team_dataset_p = team_dataset.groupby('country', as_index= False).count()[['country','name']]
+team_dataset_p = team_dataset_p.rename(columns = {'name': 'count'})
+
+team_dataset_p['iso_alpha'] = team_dataset_p['country']
+
+countries = {}
+
+for country in pycountry.countries:
+    countries[country.name] = country.alpha_3
+
+erros = {'Asia':'NPL',
+ 'CIS':'RUS',
+ 'Czech Republic':'CZE',
+ 'Europe':'ITA',
+ 'Korea':'KOR',
+ 'North America': 'USA',   
+ 'Oceania':'AUS',
+ 'Russia':'RUS',
+ 'South America':'BRA'}
+
+def name_to_iso(x):
+    try:
+        iso = countries[x]
+    except KeyError:
+        iso = erros[x]
+    return iso
+
+team_dataset_p['iso_alpha'] = team_dataset_p['iso_alpha'].apply(name_to_iso)
+
+#-------------------------------------------------------------------------------------------------
 
 
 
