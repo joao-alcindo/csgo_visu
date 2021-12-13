@@ -30,3 +30,5 @@ elif menu == 'Jogadores':
     set_players()
 elif menu == 'Times':
     set_teams()
+
+
